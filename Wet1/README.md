@@ -5,7 +5,7 @@ Currently there are only Unit Tests for the world_cup_t functions
 * Clone / Download the files from the repository
 * Put the files in the folder with all your other files (makefile and the WorldCup folder)
 * Update the makefile file to support your files of the assignment
-* In the teminal, located in the folder run:
+* In the teminal, while your current working directory is the folder with all files, run:
   * make
   * ./WorldCupUnitTester
 
