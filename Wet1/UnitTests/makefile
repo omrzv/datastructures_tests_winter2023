@@ -4,7 +4,7 @@ TESTS_DIR=./WorldCupTests
 O_FILES_DIR=$(TESTS_DIR)/OFiles
 EXEC=WorldCupUnitTester
 TESTS_INCLUDED_FILE=worldcup23a1.h $(TESTS_DIR)/catch.hpp
-OBJS=$(O_FILES_DIR)/UnitTests.o $(O_FILES_DIR)/Team.o $(O_FILES_DIR)/Player.o $(O_FILES_DIR)/worldcup23a1.o # UPDATE HERE
+OBJS=$(O_FILES_DIR)/UnitTests.o $(O_FILES_DIR)/Team.o $(O_FILES_DIR)/Player.o $(O_FILES_DIR)/worldcup23a1.o # UPDATE HERE ALL THE O FILES YOU CREATED BELOW
 DEBUG_FLAG= -g # can add -g
 COMP_FLAG=--std=c++11 -Wall -Werror -pedantic-errors $(DEBUG_FLAG)
 
