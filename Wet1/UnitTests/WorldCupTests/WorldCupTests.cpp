@@ -1472,6 +1472,7 @@ TEST_CASE("get_all_players_count")
         output_t<int> resn3 = obj->get_all_players_count(-1);
         REQUIRE(resn3.status() == StatusType::SUCCESS);
         REQUIRE(resn3.ans() == 1);
+        delete obj;
     }
 
     SECTION("get_all_players_count big")
@@ -1556,6 +1557,7 @@ TEST_CASE("get_closest_player")
         REQUIRE(res == StatusType::SUCCESS);
         output_t<int> resn1 = obj->get_closest_player(1001, 1);
         REQUIRE(resn1.status() == StatusType::FAILURE);
+        delete obj;
     }
 
     SECTION("get_closest_player no player")
@@ -1565,6 +1567,7 @@ TEST_CASE("get_closest_player")
         REQUIRE(res == StatusType::SUCCESS);
         output_t<int> resn1 = obj->get_closest_player(1001, 1);
         REQUIRE(resn1.status() == StatusType::FAILURE);
+        delete obj;
     }
 
     SECTION("get_closest_player invalid input")
@@ -1584,6 +1587,7 @@ TEST_CASE("get_closest_player")
         REQUIRE(resn4.status() == StatusType::INVALID_INPUT);
         output_t<int> resn5 = obj->get_closest_player(0, 2);
         REQUIRE(resn5.status() == StatusType::INVALID_INPUT);
+        delete obj;
     }
 
     SECTION("get_closest_player 2 players")
@@ -1642,6 +1646,7 @@ TEST_CASE("get_closest_player")
         REQUIRE(resn5.status() == StatusType::INVALID_INPUT);
         output_t<int> resn6 = obj->get_closest_player(1001, 0);
         REQUIRE(resn6.status() == StatusType::INVALID_INPUT);
+        delete obj;
     }
 
     SECTION("segel example")
@@ -2136,6 +2141,7 @@ TEST_CASE("get_all_players")
         REQUIRE(res == StatusType::INVALID_INPUT);
         res = obj->get_all_players(0, players);
         REQUIRE(res == StatusType::INVALID_INPUT);
+        delete obj;
     }
 
     SECTION("get_all_players failure")
@@ -2151,6 +2157,7 @@ TEST_CASE("get_all_players")
         REQUIRE(res == StatusType::SUCCESS);
         res = obj->get_all_players(1, players);
         REQUIRE(res == StatusType::FAILURE);
+        delete obj;
     }
 
     SECTION("get_all_players 1 team all with same grades")
