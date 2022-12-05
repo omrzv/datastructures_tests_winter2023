@@ -1605,6 +1605,7 @@ TEST_CASE("get_closest_player")
         output_t<int> resn2 = obj->get_closest_player(1002, 1);
         REQUIRE(resn2.status() == StatusType::SUCCESS);
         REQUIRE(resn2.ans() == 1001);
+        delete obj;
     }
 
     SECTION("get_closest_player - all failure or invalid_input")
