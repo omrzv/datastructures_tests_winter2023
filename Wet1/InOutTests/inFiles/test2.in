@@ -1,0 +1,70 @@
+add_team 18207 2
+add_player 5962 18207 9 8 3 false
+add_player 7224 70 8 10 0 false
+add_player 28517 18207 5 6 7 false
+get_team_points 18207
+get_team_points 18207
+add_player 48912 18207 4 4 2 false
+add_player 17104 18207 1 10 2 false
+update_player_stats 5962 2 5 8
+get_closest_player 18207 18207
+add_team 67275 1
+add_player 56805 18207 1 0 24 false
+get_all_players 67275
+remove_team 67275
+get_all_players 67275
+add_team 9022 9
+add_player 2971 67275 9 10 6 false
+add_player 99943 18207 3 5 3 true
+add_player 89522 67275 0 5 7 false
+add_team 19196 10
+add_player 22343 18207 6 8 0 false
+remove_player 48912
+remove_player 89522
+remove_team 48
+add_player 52609 67275 6 8 6 true
+add_player 42736 9022 2 5 7 false
+add_player 67139 67275 1 6 5 false
+remove_player 89522
+add_player 16844 67275 10 7 8 false
+get_num_played_games 7224
+add_player 23108 18207 7 7 6 false
+add_team 38087 9
+get_num_played_games 16844
+add_player 75215 38087 2 4 0 true
+add_player 85887 18207 5 6 9 true
+add_player 45052 9022 8 4 8 false
+get_team_points 38087
+add_player 70520 18207 8 9 2 false
+remove_player 23108
+add_player 67400 18207 1 4 6 false
+get_closest_player 57143 19196
+add_player 26897 38087 2 0 9 true
+add_team 29098 9
+add_player 53129 18207 4 2 2 true
+add_player 51775 18207 1 8 3 false
+add_player 86885 18207 1 8 7 false
+remove_team 9022
+add_player 86827 18207 7 5 6 false
+get_num_played_games 7224
+update_player_stats 51775 10 8 2
+add_player 45510 29098 2 10 3 false
+remove_player 5962
+add_player 5366 9022 0 8 4 false
+add_player 63993 19196 1 2 100 false
+add_player 33 9022 10 8 5 false
+add_player 94068 18207 6 8 1 true
+add_player 57852 38087 9 8 6 false
+remove_player 45510
+get_closest_player 18207 18207
+add_player 98132 9022 5 5 1 false
+add_player 25063 18207 7 4 8 false
+add_player 26886 29098 2 2 7 false
+add_player 87896 38087 5 9 10 true
+add_player 62678 18207 5 7 5 false
+get_closest_player 18207 18207
+add_player 38765 67275 4 3 2 false
+add_player 39053 38087 4 3 4 false
+add_player 78449 18207 5 10 9 false
+add_player 14495 38087 5 5 3 false
+add_player 60051 9022 9 10 7 false

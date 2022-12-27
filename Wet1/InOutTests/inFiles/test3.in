@@ -1,0 +1,80 @@
+add_team 67191 8
+add_player 9491 67191 0 10 4 false
+unite_teams 67191 67191 67191
+add_player 52202 67191 2 1 6 false
+add_player 80990 67191 4 10 3 false
+remove_team 67191
+add_player 76455 67191 2 1 1 false
+add_player 72371 67191 2 10 6 false
+add_player 22185 67191 3 7 9 false
+add_player 80 67191 7 3 10 false
+remove_player 52202
+add_player 49215 4 1 8 3 true
+add_player 7139 67191 9 2 3 false
+remove_player 9491
+add_player 81471 67191 6 10 5 false
+add_player 66975 67191 2 6 5 false
+add_team 81803 4
+add_player 15722 67191 2 9 8 false
+add_player 21971 81803 8 10 7 true
+add_team 4228 5
+add_player 33296 4228 0 6 4 false
+add_team 98060 10
+add_team 38297 8
+remove_player 66975
+add_player 17860 38297 0 8 4 false
+get_all_players 67191
+add_player 14552 98060 5 6 1 false
+add_player 82316 67191 3 4 2 false
+add_player 34320 4228 7 9 9 true
+add_player 39584 98060 4 9 2 false
+add_player 20986 38297 9 7 3 false
+add_player 18896 81803 9 7 2 true
+add_player 25844 81803 5 9 6 false
+add_player 82231 67191 9 4 4 false
+add_team 39498 9
+add_player 35578 81803 0 1 8 false
+add_player 88923 98060 3 4 1 false
+add_player 84736 38297 10 3 2 false
+update_player_stats 81471 3 4 10
+add_player 40062 38297 -7 7 7 false
+remove_player 35578
+add_team 87 8
+get_team_points 98060
+add_player 26524 81803 9 2 4 false
+add_player 51572 81803 7 2 39 false
+add_player 78775 81803 2 5 4 false
+remove_team 67191
+add_player 52813 67191 2 4 3 false
+add_player 58147 81803 8 8 -1 true
+add_player 51446 87 2 6 5 false
+add_player 63146 81803 6 10 0 false
+add_player 98554 98060 1 8 9 false
+add_player 21923 67191 4 8 5 false
+add_player 54645 38297 5 0 3 false
+knockout_winner 10710 65787
+add_player 50429 39498 5 6 5 false
+add_player 34188 81803 8 1 10 false
+add_player 11911 38297 2 4 2 false
+add_player 4270 98060 0 3 7 true
+add_team 60 3
+add_team 42258 3
+add_player 29440 98060 6 1 2 false
+add_player 20555 81803 2 10 8 false
+add_team 63394 6
+add_player 90293 4228 8 7 10 false
+add_player 36945 98060 0 7 1 false
+get_team_points 81803
+add_player 15355 42258 6 7 10 false
+add_team 86444 10
+add_team 61547 2
+unite_teams 4228 39498 42594
+add_team 3600 6
+add_player 23112 42258 9 6 9 false
+add_player 83993 63394 0 1 5 false
+add_team 88145 1
+add_player 86420 61547 5 3 10 false
+get_team_points 63394
+add_player 86611 88145 7 3 4 false
+add_player 9 87 2 2 1 false
+add_player 22181 86444 2 0 5 false

@@ -1,0 +1,810 @@
+add_team 12152 3
+add_player 47021 12152 5 0 5 false
+remove_player 47021
+get_num_played_games 47021
+add_player 56787 12152 8 2 7 false
+add_player 47342 12152 4 3 10 false
+add_player 64067 12152 1 5 7 false
+add_team 97187 0
+remove_player 56787
+unite_teams 97187 97187 97187
+update_player_stats 47021 7 3 1
+remove_player 56787
+add_player 79179 12152 8 8 10 false
+update_player_stats 47342 10 4 5
+update_player_stats 64067 2 2 0
+add_player 24106 12152 1 6 4 false
+add_player 71545 97187 2 5 8 false
+get_num_played_games 71545
+add_player 16052 97187 3 0 9 false
+add_player 58 12152 4 7 10 false
+update_player_stats 79179 1 0 3
+get_closest_player 97187 97187
+add_team 81949 10
+add_player 38976 81949 8 8 4 false
+remove_team 81949
+add_player 40073 97187 2 8 2 false
+add_player 84641 12152 6 0 4 false
+add_player 94939 12152 4 8 7 false
+get_closest_player 81949 81949
+get_team_points 12152
+get_all_players 81949
+unite_teams 97187 12152 79967
+add_player 63708 81949 9 2 1 false
+add_player 8 81949 0 5 10 false
+add_player 22355 79967 1 0 4 false
+unite_teams 79967 81949 79967
+add_player 72683 79967 8 0 4 false
+remove_player 63708
+add_player 43348 79967 3 6 9 false
+add_player 59095 79967 4 0 10 false
+update_player_stats 22355 9 10 3
+add_player 43325 79967 4 3 2 false
+add_player 13 79967 8 79 10 false
+add_player 55905 79967 0 -13 8 false
+add_player 31501 79967 8 0 7 false
+add_player 80387 79967 9 1 6 false
+add_team 4283 7
+add_player 69013 4283 8 0 4 false
+add_player 64753 79967 1 0 10 false
+remove_player 13
+update_player_stats 79179 5 1 2
+get_num_played_games 94939
+add_player 11503 4283 66 8 1 false
+remove_player 79179
+remove_player 47021
+unite_teams 4283 79967 4283
+add_player 84494 4283 7 10 5 false
+unite_teams 4283 4283 4283
+add_player 64170 4283 5 7 2 false
+get_all_players 4283
+get_closest_player 79967 4283
+add_team 85649 2
+add_player 97120 4283 10 9 9 true
+add_player 8977 4283 9 5 2 false
+add_player 54724 85649 9 5 6 false
+add_player 80682 85649 8 3 5 false
+remove_player 54724
+remove_player 47342
+add_player 60857 85649 6 8 10 false
+add_player 67939 85649 0 5 7 false
+add_player 30563 4283 1 8 9 true
+unite_teams 85649 85649 37998
+add_player 45367 4283 8 7 4 false
+add_player 26457 85649 3 9 2 false
+add_player 45955 4283 8 10 2 true
+add_player 50791 85649 3 10 4 false
+add_player 75746 85649 4 6 9 true
+add_player 59772 4283 2 4 2 false
+add_player 3763 85649 8 1 4 false
+add_player 53321 4283 4 3 3 false
+unite_teams 4283 85649 99883
+unite_teams 4283 4283 63380
+add_player 45920 85649 7 2 8 false
+remove_player 45955
+remove_player 45920
+add_player 15737 63380 10 2 9 false
+add_player 53281 63380 8 1 8 false
+add_player 92745 63380 6 52 10 false
+get_closest_player 85649 85649
+get_num_played_games 3763
+get_team_points 63380
+get_num_played_games 44
+add_player 69948 63380 8 2 7 false
+add_player 18454 85649 9 9 95 false
+add_player 27181 85649 5 5 9 true
+add_player 30073 63380 10 6 5 false
+get_team_points 85649
+add_player 91509 63380 10 6 8 true
+remove_player 69013
+add_player 64882 63380 8 4 5 false
+add_player 97596 63380 1 5 6 false
+remove_team 85649
+add_team 52842 6
+knockout_winner 19439 98435
+get_num_played_games 91509
+add_player 83479 85649 6 4 2 false
+add_team 57658 7
+add_team 50798 25
+add_player 73978 57658 2 5 6 false
+add_player 70450 63380 1 7 10 false
+get_all_players 63380
+add_player 16521 57658 0 8 3 false
+get_num_played_games 18454
+remove_player 16521
+add_player 65743 57658 1 3 8 false
+knockout_winner 65836 85649
+add_player 58104 52842 5 5 0 false
+update_player_stats 80682 1 8 9
+add_player 3428 52842 7 7 4 false
+get_closest_player 2601 50798
+add_player 70461 52842 6 6 8 false
+add_player 82430 85649 0 0 3 false
+add_player 37127 50798 7 0 4 false
+add_team 11067 3
+add_player 50036 57658 8 3 5 false
+remove_player 64170
+add_player 51655 11067 0 5 3 false
+add_player 44050 85649 67 9 7 false
+add_player 46353 11067 1 7 0 false
+remove_team 52842
+add_team 9077 2
+play_match 63380 85649
+add_player 94 52842 8 4 9 false
+add_player 75895 57658 9 4 1 false
+remove_player 92745
+add_player 74326 63380 6 2 1 false
+update_player_stats 43348 10 7 10
+unite_teams 52842 52842 52842
+add_player 34654 57658 6 32 0 false
+add_player 61099 9077 3 3 2 false
+add_player 11993 57658 4 6 6 false
+get_all_players 52842
+add_player 8725 52842 2 9 6 false
+get_closest_player 81949 63380
+remove_player 59772
+add_player 79928 50798 2 9 10 true
+add_player 7089 63380 9 8 38 false
+add_player 36337 63380 2 5 1 false
+remove_player 18454
+add_team 9246 1
+update_player_stats 16052 5 6 6
+add_team 61453 61
+add_player 63338 9077 9 0 3 false
+remove_team 11067
+add_player 25484 9077 4 9 5 true
+get_closest_player 52842 52842
+add_player 34587 9077 5 3 0 false
+get_closest_player 50798 50798
+add_player 76284 63380 3 6 9 false
+get_closest_player 57658 57658
+add_player 29548 3 8 4 2 false
+add_player 8824 61453 8 5 10 false
+get_num_played_games 72683
+add_player 77909 50798 6 2 8 false
+add_player 58927 9246 6 7 9 false
+get_num_played_games 61099
+add_player 29714 11067 5 0 7 true
+add_player 41127 -11 5 5 2 false
+add_player 7938 9077 9 2 7 false
+remove_player 46353
+unite_teams 11067 85649 11067
+add_player 69095 9077 0 4 10 false
+get_closest_player 52842 52842
+add_player 49940 85649 5 3 8 false
+update_player_stats 80387 8 6 4
+add_player 77018 63380 48 2 9 false
+add_team 11463 9
+remove_team 9246
+add_player 61654 86 5 6 1 false
+get_closest_player 57658 57658
+remove_player 63708
+add_player 73451 11067 5 0 4 false
+add_player 36539 52842 3 5 0 false
+add_team 7769 10
+add_player 95012 61453 8 10 2 true
+add_player 36814 50798 9 0 8 false
+add_player 29 7769 5 9 1 false
+get_all_players 52842
+add_player 15605 57658 9 2 0 false
+add_player 43925 11067 7 9 8 false
+add_player 39510 11463 9 8 3 false
+add_team 91769 2
+add_player 35490 85649 4 6 10 false
+add_team 21125 5
+add_player 57366 57658 6 3 4 false
+add_player 45629 11463 2 8 4 false
+add_player 33422 11463 0 1 5 false
+add_player 7996 91769 6 3 10 false
+get_all_players 57658
+add_player 64137 9246 8 5 3 false
+add_player 94258 50798 0 8 10 false
+play_match 57658 85649
+add_player 40236 50798 9 7 3 false
+remove_team 9077
+add_team 63344 10
+remove_player 25484
+add_player 83965 63344 1 7 6 true
+add_player 61648 21125 4 0 10 false
+add_player 8676 11463 4 0 0 false
+knockout_winner 12113 15609
+add_player 9612 50798 3 7 8 false
+add_player 49253 57658 2 1 3 false
+add_player 31913 21125 1 10 9 false
+add_team 62100 9
+add_player 69399 63380 1 1 7 false
+add_player 1039 91769 10 8 6 false
+unite_teams 7769 11067 85195
+update_player_stats 74326 2 1 9
+update_player_stats 40236 0 10 5
+add_player 87886 50798 6 3 1 false
+add_player 4358 52842 3 10 9 false
+add_player 92946 85195 4 9 15 true
+add_player 62178 85649 2 2 2 false
+add_player 81693 62100 7 4 5 false
+add_player 765 91769 9 5 9 false
+add_player 17452 85649 0 0 7 false
+add_player 80317 50798 7 8 0 false
+remove_team 9246
+add_player 51250 9246 0 0 10 false
+add_player 75853 85195 10 3 9 false
+add_player 84680 50798 4 2 5 false
+add_team 78095 6
+play_match 85649 50798
+add_player 91759 21125 5 10 2 true
+add_player 23747 63344 5 6 10 false
+add_player 49631 9246 6 4 10 false
+add_team 86590 6
+add_player 5882 21125 5 10 60 false
+add_player 34512 21125 0 4 3 true
+play_match 85649 85649
+add_team 99594 2
+add_team 32324 10
+remove_player 62178
+add_player 5324 85649 0 2 2 false
+add_player 13132 50798 2 9 10 false
+play_match 57658 63380
+add_player 58817 85195 5 6 7 false
+add_player 69202 63380 1 10 4 false
+remove_player 30
+add_player 83499 50798 8 2 1 false
+add_player 25571 63380 3 0 3 false
+get_team_points 78095
+knockout_winner 2101 60132
+update_player_stats 64753 5 3 10
+add_player 90564 50798 6 3 0 false
+add_team 27287 0
+add_player 32279 50798 8 0 8 false
+get_team_points 57658
+add_player 81411 9077 0 0 3 false
+get_closest_player 61453 61453
+add_player 33641 11463 1 7 0 false
+update_player_stats 69202 10 9 8
+knockout_winner 63380 91919
+remove_player 16521
+add_player 83065 57658 10 8 5 false
+update_player_stats 95012 3 8 4
+unite_teams 9077 63344 9077
+update_player_stats 34654 3 2 0
+unite_teams 32324 62100 49543
+add_player 47827 9246 5 2 8 false
+add_player 88816 57658 5 7 2 false
+add_player 50084 99594 5 5 9 true
+add_player 77536 85195 5 7 10 true
+add_player 23318 99594 0 9 8 false
+add_player 84069 85195 0 7 4 false
+add_team 53652 8
+add_team 29523 5
+add_team 50334 4
+add_team 530 3
+add_player 14162 50334 3 3 7 false
+add_player 41076 85195 0 1 4 false
+get_all_players 49543
+add_player 90294 530 6 0 10 false
+add_player 40602 53652 0 6 0 false
+remove_player 8676
+unite_teams 91769 49543 93573
+remove_team 78095
+remove_team 57658
+add_player 50163 85649 8 4 4 false
+add_player 96342 21125 8 4 1 true
+add_team 92685 1
+add_player 65936 9077 10 8 2 false
+remove_player 41127
+get_num_played_games 17452
+get_all_players 92685
+add_player 14311 29523 5 7 9 false
+unite_teams 52842 99594 52842
+update_player_stats 14162 8 3 2
+add_team 76753 7
+add_player 41866 63380 9 9 2 false
+get_closest_player 9246 9246
+add_player 56801 78095 10 1 5 false
+remove_player 8
+get_team_points 9246
+get_closest_player 53652 53652
+remove_player 43325
+add_player 38915 76753 10 4 2 false
+add_player 6022 61453 3 10 0 false
+remove_player 45367
+add_player 57898 86590 4 0 6 false
+unite_teams 78095 27287 91062
+play_match 57658 57658
+add_team 61917 1
+update_player_stats 60857 8 -15 7
+add_player 7686 91062 7 5 9 false
+remove_player 47021
+add_player 31958 57658 5 5 1 false
+get_all_players 57658
+update_player_stats 83479 6 0 5
+add_player 24456 86590 7 1 10 false
+add_player 43303 530 6 0 7 false
+add_player 65054 9246 10 5 3 false
+get_all_players 50798
+add_team 48223 1
+add_player 75044 50798 5 6 10 true
+play_match 57658 52842
+add_team 45 8
+add_player 64447 93573 7 8 7 false
+remove_player 77536
+add_team 39899 5
+add_team 11204 1
+add_player 64532 45 7 1 7 false
+get_closest_player 52842 52842
+add_team 36012 9
+add_player 23409 85195 6 10 2 true
+update_player_stats 64170 7 10 0
+add_player 53208 92685 9 10 10 false
+add_player 60475 93573 0 7 0 false
+get_num_played_games 45629
+add_player 23761 9077 6 5 8 true
+update_player_stats 83479 9 2 0
+add_player 19794 45 2 0 4 false
+add_player 4134 63380 8 5 5 false
+add_player 89992 21125 0 4 0 false
+update_player_stats 1039 4 2 6
+remove_player 50084
+add_player 41424 48223 5 7 8 false
+update_player_stats 96342 4 1 8
+update_player_stats 58817 1 10 4
+add_player 73269 86590 9 8 5 false
+add_team 70948 5
+add_player 37969 36012 8 52 3 false
+remove_team 52842
+remove_team 57658
+unite_teams 86590 39899 72977
+remove_player 43925
+add_player 10932 11463 0 6 1 true
+add_player 34859 85649 5 4 1 false
+add_player 72 50798 9 5 82 true
+add_player 28612 76753 9 87 0 false
+remove_player 91759
+add_player 28120 91062 3 3 3 false
+remove_team 45
+add_player 50162 11204 2 3 1 true
+remove_player 36539
+add_player 83952 63344 1 0 2 true
+add_player 97617 53652 10 10 4 false
+add_player 38666 63380 6 9 6 false
+add_player 49540 530 6 10 5 true
+add_player 19254 85195 10 8 8 false
+add_player 83770 29523 2 4 1 false
+add_player 96405 11204 3 2 7 false
+update_player_stats 4358 8 7 6
+remove_player 43925
+add_player 51918 76753 3 6 0 false
+add_player 66975 9077 5 8 6 false
+add_team 60256 1
+add_player 3 530 7 6 9 false
+knockout_winner 89053 97779
+add_player 86746 9246 5 1 10 false
+add_player 87531 9246 9 2 5 false
+get_closest_player 530 530
+get_all_players 29523
+add_team 52391 0
+update_player_stats 92745 10 9 3
+update_player_stats 69948 6 7 1
+add_player 21438 76753 1 1 4 false
+unite_teams 48223 36012 79115
+add_player 17662 76753 0 2 5 false
+add_player 70745 530 0 8 10 false
+add_player 7712 85195 5 9 9 false
+add_player 56136 50334 7 7 6 false
+add_player 98228 93573 8 3 10 true
+play_match 9077 9077
+add_player 84924 60256 6 8 3 false
+add_team 20130 8
+unite_teams 530 61453 530
+remove_team 50798
+add_player 43902 36012 7 9 10 true
+add_player 64646 57658 7 4 10 false
+add_player 52586 48223 7 7 1 true
+add_team 97990 2
+add_player 24982 50798 2 6 8 false
+remove_player 73269
+add_team 64056 4
+add_player 83496 85649 1 6 10 false
+get_all_players 53652
+add_player 44824 63344 8 4 2 false
+add_player 12062 97990 2 2 3 false
+add_player 76563 50798 4 0 5 false
+play_match 9077 57658
+add_player 92644 97990 8 5 3 false
+update_player_stats 8676 6 0 1
+add_player 28366 60256 2 10 10 false
+add_player 78502 21125 2 1 3 false
+update_player_stats 3 0 3 2
+update_player_stats 26457 3 6 8
+add_player 35920 20130 2 1 8 false
+add_team 29797 10
+get_num_played_games 61648
+unite_teams 92685 9077 16509
+get_team_points 52391
+add_team 7372 4
+add_player 70276 85649 4 6 6 true
+add_team 56520 6
+add_player 40299 52842 4 3 10 false
+remove_player 1039
+add_player 42906 61917 3 8 1 false
+add_team 34272 5
+get_closest_player 9246 9246
+add_player 17867 63380 2 10 4 false
+knockout_winner 59629 85195
+add_player 85236 29797 6 4 6 false
+get_closest_player 29523 29523
+get_team_points 85649
+add_player 41479 61917 1 2 6 false
+add_player 97687 29523 1 4 2 false
+add_player 56254 50334 0 0 4 false
+remove_player 47827
+add_player 75929 50798 6 9 7 false
+add_player 39545 11204 2 10 8 false
+add_player 54426 52391 1 10 8 false
+remove_team 36012
+add_player 48357 85195 9 4 9 false
+add_player 5452 61453 2 3 8 false
+add_team 10234 4
+add_player 2051 72977 1 1 4 false
+remove_player 97687
+add_player 74246 85195 1 4 8 false
+remove_player 75
+remove_player 35490
+add_player 17115 64056 8 4 18 false
+add_player 85679 93573 2 2 3 false
+remove_player 29
+knockout_winner 16509 55766
+get_closest_player 29523 29523
+get_closest_player 50334 50334
+add_team 51195 2
+add_player 5097 72977 9 4 6 false
+add_team 29094 2
+get_team_points 53652
+remove_player 51655
+add_player 69554 61453 5 10 9 false
+add_team 94303 86
+get_num_played_games 4134
+add_player 25185 48223 6 3 9 false
+play_match 52842 52842
+add_player 58810 10234 9 9 6 false
+get_num_played_games 49253
+remove_player 30073
+add_player 51695 63380 3 10 9 false
+get_team_points 76753
+remove_player 74326
+add_player 77396 72977 2 10 3 false
+add_player 39536 91062 0 6 0 false
+get_closest_player 76753 76753
+add_player 85626 51195 7 1 5 false
+add_player 56098 52391 0 4 2 true
+get_all_players 94303
+add_player 95751 51195 1 10 8 false
+add_player 44184 85195 7 8 6 false
+add_player 33890 21125 2 8 2 false
+add_player 48492 21125 1 8 3 false
+get_closest_player 85195 85195
+add_team 48353 8
+add_player 50899 64056 9 9 7 false
+get_all_players 85195
+add_player 34146 16509 8 0 5 false
+add_player 49015 51195 4 9 3 false
+remove_player 8824
+knockout_winner 21985 97001
+add_team 87591 8
+add_player 48868 61453 1 0 7 false
+add_team 68477 8
+add_player 3109 10234 0 4 2 false
+add_player 33884 68477 8 10 5 false
+add_player 22452 9246 5 0 5 false
+update_player_stats 80387 5 9 1
+add_player 18254 60256 -11 5 8 false
+add_team 73922 10
+add_player 60099 52842 2 8 6 false
+add_player 44466 51195 9 6 8 false
+remove_player 81411
+add_player 45807 57658 44 3 4 true
+add_team 14840 2
+get_all_players 93573
+knockout_winner 77750 99158
+add_team 65369 0
+knockout_winner 16509 86242
+add_player 34177 51195 3 6 3 false
+add_player 53074 10234 6 4 8 false
+add_team 85207 8
+add_player 50671 34272 1 0 3 false
+get_team_points 60256
+add_player 56388 29797 6 6 1 false
+add_player 16778 57658 0 92 2 false
+add_player 3824 61453 9 7 3 false
+add_player 62994 85207 2 10 9 true
+get_team_points 73922
+remove_team 94303
+add_player 82625 70948 4 7 5 false
+add_player 78295 85207 8 3 7 false
+add_player 78033 61917 5 0 10 false
+add_player 28986 70948 4 17 10 false
+add_player 27133 14840 7 0 7 false
+add_team 44629 9
+add_team 34771 7
+get_team_points 85207
+remove_team 93573
+update_player_stats 64447 4 5 6
+add_player 78978 44629 0 10 3 false
+add_player 91888 57658 7 7 9 false
+add_player 45924 94303 1 8 0 false
+get_num_played_games 31958
+add_player 9836 29523 5 8 10 false
+get_num_played_games 75853
+get_num_played_games 80317
+update_player_stats 73451 7 7 5
+add_team 22960 4
+add_player 48654 57658 4 8 0 false
+add_player 89723 7372 7 10 2 false
+update_player_stats 33641 6 -11 1
+add_team 96559 2
+get_closest_player 9246 9246
+add_player 85824 76753 0 10 8 false
+add_player 34070 94303 3 1 0 true
+add_team 27225 1
+remove_player 28120
+add_player 54802 57658 1 10 6 false
+add_player 97267 9246 3 7 5 false
+add_team 79139 1
+add_team 61124 2
+add_player 66816 53652 5 3 10 false
+add_player 64399 44 6 0 10 false
+add_player 91691 51195 9 3 89 false
+add_player 67543 66 9 9 9 false
+add_team 54 0
+add_player 96913 48223 0 8 0 false
+add_player 88920 50334 5 8 0 false
+add_player 599 50334 8 3 7 false
+add_player 25666 53652 2 0 2 false
+get_num_played_games 92644
+add_player 49105 70948 5 5 9 false
+add_player 58749 29094 4 9 7 false
+add_player 89566 530 7 9 7 false
+get_num_played_games 45924
+add_player 95791 61124 0 7 2 false
+add_player 48465 85207 8 4 1 false
+add_player 84195 94303 7 9 3 false
+add_player 41684 53652 10 4 10 false
+add_player 90256 56520 10 3 0 false
+add_player 89423 64056 3 7 6 false
+get_all_players 20130
+add_player 59403 60256 5 10 3 false
+add_player 33681 9246 5 7 7 false
+add_player 85016 34771 0 3 9 false
+add_player 95814 44629 2 0 5 false
+remove_player 94
+knockout_winner 16509 57658
+add_team 78146 9
+add_player 85879 29523 5 2 9 false
+add_team 45 10
+add_player 2629 61124 10 1 8 false
+add_player 37618 85195 8 6 5 false
+knockout_winner 5973 50798
+unite_teams 530 56520 530
+add_player 14778 22960 2 1 5 false
+add_player 87891 64056 47 6 7 true
+update_player_stats 16052 3 1 4
+add_team 62707 10
+add_player 23298 11463 10 2 1 true
+add_player 59899 54 6 0 3 false
+add_player 90714 50334 10 5 73 false
+add_player 88687 61453 7 7 7 false
+update_player_stats 64882 0 5 1
+add_player 4380 45 10 9 3 false
+add_player 12697 50334 6 9 8 false
+add_player 91955 44629 10 1 5 false
+add_player 3512 11204 5 1 0 false
+unite_teams 85195 85649 85195
+update_player_stats 61654 10 3 3
+get_closest_player 42524 65369
+add_player 81244 7372 5 0 4 false
+add_team 84747 9
+add_player 5959 14840 9 6 4 false
+knockout_winner 63380 94382
+get_team_points 29094
+add_player 40780 72977 9 10 9 false
+remove_player 35490
+update_player_stats 11993 10 0 3
+knockout_winner 35259 53005
+remove_team 34771
+add_player 96633 76753 5 8 3 false
+add_player 93570 97990 8 8 5 false
+update_player_stats 30073 8 7 7
+add_player 88327 52391 10 6 10 true
+add_team 95958 3
+update_player_stats 40236 6 5 10
+add_team 19452 1
+add_player 16349 7372 7 8 9 false
+add_player 94863 61124 5 5 5 true
+add_team 66053 8
+update_player_stats 66816 4 7 1
+add_player 18430 48223 6 4 8 false
+add_player 4502 70948 4 3 5 false
+add_player 48977 96559 5 3 3 false
+get_closest_player 41225 19452
+add_player 86157 61124 3 5 1 false
+add_player 81291 73922 6 5 2 false
+add_player 1988 60256 5 9 0 false
+add_player 51820 61917 7 5 0 false
+add_player 23495 52391 9 2 4 false
+add_player 23929 9246 4 5 6 false
+remove_player 59772
+add_team 9232 2
+play_match 85195 9246
+add_player 17539 22960 0 5 86 false
+add_player 88182 63380 9 2 6 false
+add_player 2088 70948 2 5 5 false
+add_player 43813 64056 7 1 2 false
+add_player 76 29797 1 3 4 false
+remove_player 56801
+add_player 571 61917 65 4 1 false
+knockout_winner 50798 85195
+add_player 49294 48223 3 7 8 false
+remove_player 23409
+add_player 74939 7372 1 3 6 false
+remove_player 76284
+add_player 52297 11204 9 9 9 false
+get_team_points 52391
+add_team 67603 6
+add_player 9749 78146 2 7 5 false
+add_player 18822 39 1 9 9 false
+add_player 12346 70948 1 8 5 false
+add_player 41800 84747 7 8 10 false
+remove_player 49253
+remove_team 64056
+add_player 70395 48223 7 1 6 false
+add_team 56662 5
+add_team 27628 2
+add_player 72300 56662 7 1 2 false
+add_player 25029 48223 3 8 8 false
+add_team 37347 4
+add_team 29098 8
+add_player 58760 63380 7 5 1 false
+add_team 37586 0
+remove_player 72300
+update_player_stats 83 4 0 10
+add_team 7099 0
+add_team 24359 0
+add_player 98773 38 5 10 5 false
+add_player 92331 45 4 3 10 false
+add_player 57880 70948 9 4 5 false
+add_player 68196 16509 0 6 7 false
+add_player 90188 62707 1 4 4 false
+knockout_winner 39711 94869
+remove_player 73978
+add_player 12175 50798 1 10 7 false
+remove_team 52391
+remove_team 52842
+add_player 8045 29094 1 0 8 false
+add_player 91740 37347 8 5 9 false
+add_player 53580 -9 4 0 98 false
+remove_player 70461
+get_closest_player 94303 94303
+get_closest_player 54 54
+add_player 64993 51195 7 9 3 false
+update_player_stats 91888 8 9 5
+remove_player 2629
+remove_player 61099
+add_player 55139 85207 0 6 76 false
+update_player_stats 70395 0 6 2
+add_team 88247 4
+add_player 73026 10234 5 4 3 false
+remove_player 34177
+add_player 32200 63344 6 9 2 true
+get_closest_player 45 45
+play_match 57658 16509
+add_player 24902 7099 1 5 1 true
+remove_team 27225
+remove_player 48868
+add_player 59423 95958 9 7 4 false
+add_player 36659 96559 7 6 2 false
+add_player 12658 34771 1 4 7 true
+add_player 73205 14840 3 8 4 false
+knockout_winner 6578 72302
+add_player 11771 44629 3 8 4 false
+add_player 23666 29094 1 1 3 false
+get_closest_player 45 45
+add_player 31371 94303 10 9 6 false
+remove_team 29098
+add_team 58139 5
+remove_player 24106
+add_player 26356 11463 1 4 6 false
+add_player 11646 50798 3 5 1 false
+add_player 94057 61453 6 6 14 false
+get_team_points 9232
+add_player 57987 22960 3 1 10 false
+get_team_points 61124
+add_player 73350 48223 2 3 5 false
+add_team 66979 5
+get_team_points 66053
+add_player 65244 10234 -20 8 6 false
+add_player 4445 10234 9 14 4 false
+get_closest_player 92089 27225
+add_player 9541 29098 9 7 6 false
+update_player_stats 72683 3 0 5
+remove_player 17539
+add_player 36332 66053 6 3 9 false
+update_player_stats 41684 8 3 6
+add_player 19076 34771 10 0 5 false
+unite_teams 73922 9246 73922
+add_team 59670 8
+get_team_points 52842
+add_player 83931 34272 2 7 3 false
+add_player 59453 34771 4 9 9 false
+add_player 43 66979 6 9 8 false
+add_player 98566 93573 0 0 10 false
+remove_team 51195
+add_player 53683 37347 3 7 10 true
+add_player 18469 65369 9 4 8 false
+update_player_stats 8 0 4 10
+remove_player 81411
+add_player 2695 19452 6 6 1 false
+add_player 45473 21125 9 3 1 false
+update_player_stats 16052 5 0 3
+add_player 19426 54 7 7 1 false
+add_player 58418 7099 6 0 9 false
+add_player 27244 72977 2 0 9 false
+remove_player 84680
+add_player 59 97990 5 3 2 false
+add_player 45820 29094 4 3 1 false
+update_player_stats 65743 5 5 8
+unite_teams 29098 16509 40384
+get_team_points 84747
+play_match 57658 73922
+add_player 70920 7372 3 1 9 false
+get_team_points 84747
+add_player 69218 79139 4 3 10 false
+add_team 85141 7
+add_player 21106 36012 6 7 2 false
+add_team 2986 6
+add_player 15789 93573 9 3 10 false
+add_player 23107 94303 6 7 1 false
+remove_player 58760
+add_player 81132 20130 10 6 3 false
+update_player_stats 78295 10 1 2
+add_player 28671 29094 3 9 7 false
+add_player 22359 22960 5 3 9 false
+play_match 93573 48223
+play_match 85195 40384
+add_player 89430 9232 4 9 7 false
+add_player 88328 96559 8 0 9 true
+add_player 51853 58139 81 9 8 false
+add_player 47801 51195 4 22 8 true
+update_player_stats 83965 6 1 3
+add_player 50593 61453 1 2 6 false
+remove_team 37347
+get_closest_player 65369 65369
+update_player_stats 25029 0 3 9
+add_player 36205 52842 1 7 7 false
+add_player 3117 51195 9 2 8 false
+add_player 80208 24359 1 2 3 false
+knockout_winner 32623 78093
+get_closest_player 44629 44629
+add_player 54603 61453 5 5 0 false
+add_player 58181 19452 0 85 1 false
+add_player 93416 37347 10 10 0 true
+play_match 63380 57658
+add_player 70104 48353 6 10 5 false
+unite_teams 27628 64056 43379
+add_player 65433 29523 7 0 2 true
+get_all_players 37347
+add_team 93968 1
+get_team_points 11204
+add_player 7155 7372 3 0 0 false
+add_player 23043 29094 2 5 10 false
+remove_player 89992
+remove_player 91509
+unite_teams 45 29797 99800
+add_team 2270 7
+add_player 0 84747 8 10 2 true
+add_player 43954 78146 4 1 7 false
+add_player 4493 59670 1 0 3 false
+unite_teams 85141 58139 85141
+get_closest_player 36012 36012
+add_player 556 66979 8 1 4 false
+add_player 83593 84747 4 8 2 false
+add_player 17822 43379 6 10 1 false
+add_player 84574 62707 7 2 10 true

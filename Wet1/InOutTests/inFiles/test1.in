@@ -1,0 +1,60 @@
+add_team 12253 1
+add_player 28309 12253 9 56 7 false
+add_player 64423 12253 4 7 4 true
+add_player 23743 12253 7 1 7 false
+get_num_played_games 64423
+add_team 34395 7
+add_player 82781 34395 6 7 2 false
+add_player 78741 12253 9 6 0 false
+add_player 15475 12253 3 4 7 false
+add_player 38734 12253 0 7 10 false
+add_team 71277 8
+add_player 74669 12253 3 8 8 false
+get_team_points 71277
+add_player 63198 12253 7 6 6 false
+add_player 4170 71277 3 7 1 false
+add_team 65989 7
+add_player 41338 34395 8 8 10 false
+add_team 28281 3
+add_player 8364 12253 1 4 2 false
+add_player 90332 71277 7 7 10 false
+add_team 97000 5
+add_player 67362 34395 7 9 5 false
+remove_team 47
+add_player 22808 28281 2 0 0 false
+remove_player 82781
+add_player 56826 71277 9 5 3 false
+add_player 98267 65989 4 4 10 false
+add_player 11058 93 4 3 10 false
+add_player 61102 28281 9 9 3 false
+add_player 71824 12253 6 5 7 false
+get_all_players 97000
+add_player 33185 97000 2 5 0 false
+add_player 95211 34395 7 10 2 false
+add_player 68 65989 2 2 9 false
+add_player 91019 34395 9 9 4 true
+add_team 99692 1
+get_all_players 71277
+add_player 93422 99692 0 10 9 false
+add_player 45278 99692 3 8 8 false
+add_player 6114 97000 0 4 3 false
+remove_player 38734
+add_player 26696 28281 3 7 10 false
+add_team 5427 4
+add_player 4523 97000 1 6 9 false
+add_player 16189 5427 7 3 7 false
+get_num_played_games 6114
+add_team 82290 1
+add_team 59854 10
+add_player 65668 82290 0 5 8 false
+add_player 4600 28281 4 8 4 false
+add_player 48624 99692 0 8 9 false
+add_player 41432 59854 4 0 4 false
+add_team 1334 4
+add_player 31665 28281 6 1 8 true
+add_player 99413 65989 1 3 5 true
+add_player 28435 12253 6 0 3 false
+remove_team 5427
+add_player 47576 97000 5 9 6 false
+add_player 78793 82290 10 8 10 false
+remove_player 6114
