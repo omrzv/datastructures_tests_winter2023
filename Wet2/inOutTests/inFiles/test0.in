@@ -1,0 +1,14 @@
+add_team 1
+add_team 2
+add_team 3
+remove_team 3
+add_player 1001 1 2,3,4,5,1 0 15 2 true
+add_player 2001 2 4,3,5,2,1 0 17 1 true
+play_match 1 2
+num_played_games_for_player 1001
+add_player_cards 2001 2
+get_player_cards 2001
+get_team_points 1
+get_ith_pointless_ability 0
+get_partial_spirit 1001
+buy_team 1 2
