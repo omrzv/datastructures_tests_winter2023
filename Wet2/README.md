@@ -9,4 +9,4 @@ There are Unit Tests and InOutTests
 * Put the inOutTests folder in you project folder with all your other files
 * Create the executeables as per the segels given tests (using main23a1.cpp) and name it ./InOutTester (There is a makefile in the folder, but it might need ajustments)
 * Run "./tester.sh" from inOutTests directory
-* You can delete the testXXX.result files using "./cleanResults.sh"
+* You can delete the testXXX.result files using "./cleanResults.sh" from inOutTests directory
