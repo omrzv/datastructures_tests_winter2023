@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in InOutTests/outFiles/test*.result
+for i in outFiles/test*.result
 do
 	rm $i
 done
