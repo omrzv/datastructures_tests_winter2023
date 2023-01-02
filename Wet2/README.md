@@ -1,5 +1,5 @@
-# Tests for Wet1
-Currently there are only Unit Tests for the world_cup_t functions
+# Tests for Wet2
+Currently there are Unit Tests and InOutTests
 
 ## How to run In Out Tests
 * Clone / Download the files from the repository
